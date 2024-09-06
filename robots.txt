@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ousiastre.github.io/sitemap.html.gz
+Sitemap: https://ousiastre.github.io/app/sitemap.html.gz
+Sitemap: https://ousiastre.github.io/assets/sitemap.html.gz
+Sitemap: https://ousiastre.github.io/css/sitemap.html.gz
+Sitemap: https://ousiastre.github.io/includes/sitemap.html.gz
+Sitemap: https://ousiastre.github.io/item/sitemap.html.gz
+Sitemap: https://ousiastre.github.io/src/sitemap.html.gz
